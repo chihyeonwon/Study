@@ -8,5 +8,6 @@
 5. tcp 3,4 way handshkaing, sql injection, XSS, Directory Traversal, Reltek, ./env, invalid URL, file inclusion, rdp, db공격 80개
 6. 건강보험심사평가원 공인, 사설 IP, 자산 IP 대역 암기
 7. 실무환경에서 학교에서 배운 이론을 조금이라도 적용해보면서 재미느끼면서 실무 환경에 대한 눈뜨기.
-9. 정보관리기술사 - 책으로공부
+8. 어떤 일이든 그 자체로 가치가 있음에 묵묵히 실력을 쌓아 빛을 발하기
+10. 정보관리기술사 - 책으로공부
    
